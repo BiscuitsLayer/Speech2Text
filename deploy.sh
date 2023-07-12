@@ -1,0 +1,1 @@
+pyinstaller src/main.py --noconsole --icon src/icon.png

@@ -1,0 +1,9 @@
+# audio
+output.wav
+
+# build folders
+build
+dist
+
+# environment
+env

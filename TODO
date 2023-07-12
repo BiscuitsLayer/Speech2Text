@@ -1,0 +1,10 @@
+1. Whisper check medium/large models
+2. Specify path for downloading whisper model and save it in deployed version
+3. Exit button issue
+4. Make text browsers larger
+5. Set window logo and title
+6. Solve issue with app.exec()
+7. Save .wav audios with datetime in their name for easier recovery
+8. Make adjustable length in seconds
+9. Divide code in different files (UI, Recognition, Recording)
+10. Automatically download ffmpeg and move to the project root and add it as OS ENV variable (check if it is working)
